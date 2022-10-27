@@ -1,0 +1,9 @@
+@import "./css/style.css";
+@import "./css/responsive.css";
+@import "./css/color/color.scss";
+
+
+div#__next-prerender-indicator {
+    position: absolute !important;
+    display: none;
+}
